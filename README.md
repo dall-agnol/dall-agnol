@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Angular and Node.js with AWS lambdas
-- 🌱 I’m currently learning Framework Nest.js, typeORM and PostgreeSQL 
+- 🔭 I’m currently working on Swift development
+- 🌱 I’m currently learning SwiftUI 
 - 📫 How to reach me: my e-mail: lorenzogarciaa@outlook.com
